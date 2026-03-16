@@ -31,8 +31,8 @@ Monthly trends reveal fluctuations in sales performance.
 
 **Tools Used**
 
-Power BI
-Data Visualization
-DAX Calculations
-Data Modeling
-Dashboard Design
+Power BI,
+Data Visualization,
+DAX Calculations,
+Data Modeling,
+Dashboard Design.
